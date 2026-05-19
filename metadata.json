@@ -1,0 +1,6 @@
+{
+  "name": "NetCalc - IP Toolset",
+  "description": "Herramienta profesional para análisis de IP, subnetting, supernetting y VLSM para IPv4 e IPv6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
